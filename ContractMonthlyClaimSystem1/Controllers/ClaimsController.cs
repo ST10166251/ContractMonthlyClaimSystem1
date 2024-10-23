@@ -4,6 +4,8 @@ using System.Threading.Tasks;
 using System.Linq;
 
 
+using ContractMonthlyClaimSystem1.Models; // or whatever namespace your Claim model is in
+
 namespace ContractMonthlyClaimSystem1.Controllers
 {
     public class ClaimsController : Controller
